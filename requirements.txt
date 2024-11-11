@@ -1,0 +1,11 @@
+How to Run the Project
+1. Clone the Repository
+    - Clone this repository to your local machine.
+    - Use bash to run the code below
+    - git clone https://github.com/Dekay27/Netflix_Insights-Data_Analysis_Project.git
+
+2. Open the Jupyter Notebook
+    - Launch the analysis.ipynb notebook to view and execute the code.
+
+3. Run the Cells
+    - Execute each cell in sequence to see the data loading, filtering, visualizations, and analysis steps.
